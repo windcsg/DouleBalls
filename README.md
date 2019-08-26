@@ -1,6 +1,6 @@
-# doubleball
+# doubleball （双色球号码生成app）
 
-A new Flutter project.
+双色球号码生成app，只是随机生成数据，并没有加入其它算法。用Flutter开发。
 
 ## Getting Started
 
