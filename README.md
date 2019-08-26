@@ -2,6 +2,7 @@
 
 双色球号码生成app，只是随机生成数据，并没有加入其它算法。用Flutter开发。
 
+![image](https://github.com/windcsg/DouleBalls/blob/master/images/Screenshot_1566833284.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
